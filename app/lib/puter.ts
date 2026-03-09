@@ -1,6 +1,5 @@
 import { create } from "zustand";
 
-
 declare global {
     interface Window {
         puter: {
