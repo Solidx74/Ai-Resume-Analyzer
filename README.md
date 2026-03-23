@@ -1,6 +1,6 @@
 # Ai-Resume-Analyzer
 
-Project Description
+# Project Description 
 
 AI Resume Analyzer is an intelligent web application that analyzes resumes and provides smart feedback to help job seekers improve their chances of getting hired. The system evaluates resumes based on structure, content quality, keyword relevance, and overall presentation.
 
@@ -8,18 +8,18 @@ Using artificial intelligence and data-driven insights, the platform helps users
 
 This tool is designed for students, fresh graduates, and professionals who want to optimize their resumes for job applications.
 
-Key Features
+# Key Features
 
 
 Resume Analysis
 
-Upload your resume and receive an AI-powered evaluation of its quality.
+->Upload your resume and receive an AI-powered evaluation of its quality.
 
 Resume Score
 
-The system generates a rating for your resume based on important factors such as:
+->The system generates a rating for your resume based on important factors such as:
 
-Skills relevance
+# Skills relevance
 
 Formatting
 
@@ -41,13 +41,13 @@ Better wording and structure
 
 ATS Optimization
 
-Helps make resumes more compatible with Applicant Tracking Systems (ATS) used by recruiters.
+->Helps make resumes more compatible with Applicant Tracking Systems (ATS) used by recruiters.
 
-Easy-to-Use Interface
+# Easy-to-Use Interface
 
 A simple and user-friendly interface that allows users to quickly upload and analyze resumes.
 
-Technologies Used
+# Technologies Used
 Frontend
 
 React
@@ -70,13 +70,13 @@ Node.js
 
 Git & GitHub
 
-Project Goal
+# Project Goal
 
 The goal of this project is to build a system that bridges the gap between job seekers and recruiter expectations by giving actionable insights about resumes.
 
 Many candidates submit resumes without knowing whether they meet industry standards. This tool helps solve that problem by providing instant AI-powered feedback.
 
-How It Works
+# How It Works
 
 User uploads a resume.
 
@@ -125,6 +125,6 @@ Job seekers optimizing resumes for ATS
 
 Career coaches helping candidates improve resumes
 
-License
+# License
 
 This project is open-source and available under the MIT License.
